@@ -61,4 +61,4 @@ If you have any question about our work or code, please email dumingyang17@nudt.
 
 ## 6. Acknowledgement
 
-The denoising modeldraws inspiration form the CBDNet, as proposed in the paper titled "Toward Convolutional Blind Denoising of Real Photographs" ([paper link](https://ieeexplore.ieee.org/document/8954448)) . The official code is [here](https://github.com/GuoShi28/CBDNet).
+The denoising model draws inspiration form the CBDNet, as proposed in the paper titled "Toward Convolutional Blind Denoising of Real Photographs" ([paper link](https://ieeexplore.ieee.org/document/8954448)) . The official code is [here](https://github.com/GuoShi28/CBDNet).
