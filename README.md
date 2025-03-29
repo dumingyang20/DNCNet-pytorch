@@ -38,8 +38,8 @@ The input of the denoising model is the pairwise of noisy data and clean data. I
 ### (3) Train
 
 * train a classifier on the high-SNR dataset.
-* run train.py to train the denoising model, all weights in classifier is frozen.
-* run retrain.py to finetune the classifier, all weights in denoising model is frozen.
+* run train.py to train the denoising model, all weights in classifier are frozen.
+* run retrain.py to finetune the classifier, all weights in denoising model are frozen.
 
 ## 4. Citation
 
